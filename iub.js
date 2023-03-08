@@ -16,6 +16,7 @@ _iub.csConfiguration = {
     "countryDetection": true,
     "consentOnContinuedBrowsing": false,
     "perPurposeConsent": true,
+    "gdprAppliesGlobally": (_iub_optionsObj.gdprAppliesGlobally ? _iub_optionsObj.gdprAppliesGlobally : true),
     "lang": _iub_optionsObj.lang,
     "siteId": _iub_optionsObj.siteId,
     "floatingPreferencesButtonDisplay": false,
