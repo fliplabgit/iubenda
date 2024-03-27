@@ -763,4 +763,7 @@
     font-size: 12px !important;
     line-height: 18px !important;
 }
+#iubenda-cs-paragraph strong {
+    font-weight: normal !important;
+}
 /*** Cookie Bar Floating End ***/
